@@ -8,7 +8,7 @@ Selecione as opções aplicáveis:
 - [ ] Alteração de feature existente
 - [ ] Documentação
 - [ ] Refatoração
-- [ ] Ouro (descrever)
+- [ ] Outro (descrever)
 
 ## Issue relacionada
 Closes #<número_da_issue>
